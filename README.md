@@ -24,6 +24,21 @@
 ## Run Project
 - *node app.js or npm start* on the command line.
 
+##Screens
+-firstly, if you don't sign in you will see this screen
+![image](https://user-images.githubusercontent.com/26343034/55616622-e8926880-579a-11e9-822c-ef1d89ab1121.png)
+- If you click the sign in button in the top right corner, you will see this screen. To log in, enter the user name and password and click the Sign In button. Click on the Register to register link and fill out the required fields to submit a registration request.
+![image](https://user-images.githubusercontent.com/26343034/55616906-91d95e80-579b-11e9-964b-966af7e0c099.png)
+-When the user logs in, the charts screen appears.
+![image](https://user-images.githubusercontent.com/26343034/55617225-4b383400-579c-11e9-857b-ac0ae8b0654f.png)
+-With the Broadcast tab, you can instantly view the data added to the log table.
+![image](https://user-images.githubusercontent.com/26343034/55617434-b8e46000-579c-11e9-92f3-336f31da60a6.png)
+-Logs can access log records with data. You can filter data by simply listing data with specific features or you can search through data with Elasticsearch.
+![image](https://user-images.githubusercontent.com/26343034/55617532-fe089200-579c-11e9-9d83-068cb15f2def.png)
+- With Apps tab, you can access app records.You can search through data.
+![image](https://user-images.githubusercontent.com/26343034/55617665-4e7fef80-579d-11e9-82db-a304609e0956.png)
+-Requests tab can only be displayed for users with admin role. User requests are listed on this page. Clicking the Confirm button saves the user. With the Red button the user request is deleted from the list.
+![image](https://user-images.githubusercontent.com/26343034/55621615-b0912280-57a6-11e9-8729-a58e7c780bc5.png)
 
 
 
