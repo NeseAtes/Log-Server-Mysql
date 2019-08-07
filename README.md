@@ -59,8 +59,6 @@
 -With the Broadcast tab, you can instantly view the data added to the log table.
 ![image](https://user-images.githubusercontent.com/26343034/55617434-b8e46000-579c-11e9-92f3-336f31da60a6.png)
 -Logs can access log records with data. You can filter data by simply listing data with specific features or you can search through data with Elasticsearch.
-![image](https://user-images.githubusercontent.com/26343034/55617532-fe089200-579c-11e9-9d83-068cb15f2def.png)
-
 ![log](https://user-images.githubusercontent.com/45793613/62628697-742c2980-b934-11e9-9073-d76ca970fb97.png)
 
 - With Apps tab, you can access app records.You can search through data.
