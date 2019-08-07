@@ -1,6 +1,7 @@
 # node-log-server
 
 ##Install MySql
+
 1-Create a database named "log"
 
 2-Create a table named "logs"
@@ -11,8 +12,10 @@
 
 4-Create a table named "chart_table"
     -Create columns named "chart_id", "app_name", "log_level", "count", "user_id"
+
 5-Create a table named "users"
     -Create columns named "user_id", "username", "password", "role"
+    
 6-Create a table named "user_reqister_request"
     -Create columns named "req_id", "username", "password", "role"
 
