@@ -48,6 +48,7 @@
 
 ## Run Project
 - *node app.js or npm start* on the command line.
+- localhost:3000 You can connect from port 
 
 ##Screens
 -firstly, if you don't sign in you will see this screen
