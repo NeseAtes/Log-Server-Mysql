@@ -1,5 +1,18 @@
 # node-log-server
 
+##Install MySql
+-Create a database named "log"
+-Create a table named "logs"
+    -Create columns named "log_id", "ip_no", "app_name", "date", "description", "log_level", "user_id"
+-Create a table named "app_detail"
+    -Create columns named "app_id", "app_ip", "hostname", "version", "user_id"
+-Create a table named "chart_table"
+    -Create columns named "chart_id", "app_name", "log_level", "count", "user_id"
+-Create a table named "users"
+    -Create columns named "user_id", "username", "password", "role"
+-Create a table named "user_reqister_request"
+    -Create columns named "req_id", "username", "password", "role"
+
 ##Install elasticsearch
 
 -install elasticsearch: https://www.elastic.co/downloads/elasticsearch
@@ -40,7 +53,3 @@
 ![image](https://user-images.githubusercontent.com/26343034/55617665-4e7fef80-579d-11e9-82db-a304609e0956.png)
 -Requests tab can only be displayed for users with admin role. User requests are listed on this page. Clicking the Confirm button saves the user. With the Red button the user request is deleted from the list.
 ![image](https://user-images.githubusercontent.com/26343034/55621615-b0912280-57a6-11e9-8729-a58e7c780bc5.png)
-
-
-
-

@@ -8,6 +8,7 @@ var IndexAction = function(req, res, next) {
     var connection = res.locals.connection;
     var userid=res.locals.data.data.user_id;
     var log_id=req.query.log_id;
+    var ip_no = req.query.ip_no;
     var app_name = req.query.app_name;
     var date = req.query.date;
     var log_level = req.query.log_level;
