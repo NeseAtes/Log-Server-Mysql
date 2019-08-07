@@ -44,7 +44,7 @@
 ## Port and Database Configuration
 
 - You can change the port that the server will listen to. *app.js*
-- You can change your hostname,port password according to the database you are using. *database.js*
+- You can change your hostname,port password according to the database you are using. /config/database.js*
 
 ## Run Project
 - *node app.js or npm start* on the command line.
