@@ -60,9 +60,11 @@
 ![image](https://user-images.githubusercontent.com/26343034/55617434-b8e46000-579c-11e9-92f3-336f31da60a6.png)
 -Logs can access log records with data. You can filter data by simply listing data with specific features or you can search through data with Elasticsearch.
 ![image](https://user-images.githubusercontent.com/26343034/55617532-fe089200-579c-11e9-9d83-068cb15f2def.png)
-
-![image](https://user-images.githubusercontent.com/26343034/log.png)
 - With Apps tab, you can access app records.You can search through data.
 ![image](https://user-images.githubusercontent.com/26343034/55617665-4e7fef80-579d-11e9-82db-a304609e0956.png)
 -Requests tab can only be displayed for users with admin role. User requests are listed on this page. Clicking the Confirm button saves the user. With the Red button the user request is deleted from the list.
 ![image](https://user-images.githubusercontent.com/26343034/55621615-b0912280-57a6-11e9-8729-a58e7c780bc5.png)
+
+![image](https://user-images.githubusercontent.com/26343034/55621615-b0912280-57a6-11e9-8729-a58e7c780bc5.png)
+
+![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
