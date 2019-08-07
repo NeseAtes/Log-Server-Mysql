@@ -67,4 +67,4 @@
 
 ![image](https://user-images.githubusercontent.com/26343034/55621615-b0912280-57a6-11e9-8729-a58e7c780bc5.png)
 
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+![image](https://raw.githubusercontent.com/26343034/C:/Users/winn8/Desktop/at/log.jpg)
