@@ -23,7 +23,7 @@
     "mysql": "^2.16.0",
     "ng-file-upload": "^12.2.13",
     "node-modules": "^1.0.1",
-    "pug": "2.0.0-beta11",
+    "pug": "3.0.1",
     "request": "^2.88.0",
     "request-ip": "^2.1.3",
     "websocket": "^1.0.28"
